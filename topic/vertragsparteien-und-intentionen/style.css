@@ -97,6 +97,10 @@ body {
 }
 
 .main a {
+    color: black;
+}
+
+.main .home {
     text-decoration: none;
     border: #000 4px solid;
     border-radius: 20px;

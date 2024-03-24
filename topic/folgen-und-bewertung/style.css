@@ -83,6 +83,10 @@ body {
 }
 
 .main a {
+    color: black;
+}
+
+.main .home {
     text-decoration: none;
     border: #000 4px solid;
     border-radius: 20px;
@@ -179,7 +183,7 @@ body {
         font-size: 25px;
     }
 
-    .main a {
+    .main .home {
         font-size: 15px;
         border-width: 2px;
     }
