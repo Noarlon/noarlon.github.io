@@ -45,6 +45,10 @@ body {
     text-align: center;
 }
 
+.top-box a {
+    color: white;
+}
+
 .main {
     padding: 40px;
     margin: 0;
