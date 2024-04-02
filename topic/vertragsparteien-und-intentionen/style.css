@@ -153,6 +153,15 @@ body {
     .top-box .image {
         top: 35%;
     }
+
+    
+    .top-box .top-box-background {
+        filter: blur(10px) brightness(70%);
+        -webkit-filter: blur(10px) brightness(70%);
+        background-size: 60%;
+        width: 100%;
+        height: 100vh;
+    }
 }
 
 @media screen and (max-width: 1000px){
